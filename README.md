@@ -7,6 +7,6 @@ Text to speech with Open AI and Azure Speech services
 <a href="https://github.com/retkowsky/Text-to-speech-with-Open-AI-and-Azure-Speech-services/blob/main/Speech%20to%20Text%20with%20Open%20AI%20Whisper.ipynb"> TTS with Azure Speech services</a>
 
 ## Author
-05-Sept-2023
-Updated 05-Sept-2023
+05-Sept-2023<br>
+Updated 05-Sept-2023<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
