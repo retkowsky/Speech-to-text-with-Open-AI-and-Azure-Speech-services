@@ -1,6 +1,11 @@
 # Text-to-Speech
 Text to speech with Open AI and Azure Speech services
 
+## Notebooks
+
+<a href="https://github.com/retkowsky/Text-to-speech-with-Open-AI-and-Azure-Speech-services/blob/main/Speech%20to%20Text%20with%20Azure%20Speech%20services.ipynb" TTS with Open AI Whisper</a>
+<a href="https://github.com/retkowsky/Text-to-speech-with-Open-AI-and-Azure-Speech-services/blob/main/Speech%20to%20Text%20with%20Azure%20Speech%20services.ipynb" TTS with Azure Speech services</a>
+
 ## Author
 05-Sept-2023
 Updated 05-Sept-2023
